@@ -10,7 +10,7 @@ import {
 
 export default function StatsCards() {
   return (
-    <section className="grid grid-cols-6 gap-3 w-full">
+    <section className="grid grid-cols-7 gap-3 w-full">
 
       {/* TOTAL SUBSCRIBERS */}
       <div className="bg-white border border-[#e3e7ed] rounded-lg p-4 shadow-sm">
